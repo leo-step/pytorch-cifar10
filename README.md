@@ -1,5 +1,5 @@
 # pytorch-cifar10
-94.16% accuracy on CIFAR10 dataset using ResNet-18 in PyTorch
+94.16% accuracy on CIFAR10 test dataset using ResNet-18 in PyTorch
 
 ```
 Epoch: [1/2], Step: [100/500], Loss: 0.2958
